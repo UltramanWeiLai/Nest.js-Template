@@ -1,0 +1,11 @@
+TEST_VALUE:
+  name: 'dev_cookie'
+MONGODB_CONFIG:
+
+MYSQL_CONFIG:
+
+FEISHU_APP_CONFIG:
+  url: 'https://open.feishu.cn/open-apis'
+  apiHost: 'https://open.feishu.cn'
+  appId: 'cli_a39873bae6b8500d'
+  appSecret: '6lhiZYzyPwB9asK5dEiVshHSowPMejGW'
